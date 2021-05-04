@@ -1,0 +1,9 @@
+body {
+  color: black;
+  background-color: #ffd320;
+}
+
+body.ima {
+  height: 10%;
+  width: 10%;
+}
